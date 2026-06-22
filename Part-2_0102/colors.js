@@ -1,0 +1,10 @@
+const colors = require('colors');
+console.log("This is a red text".red);
+console.log("This is a green text".green);
+console.log("This is a blue text".blue);
+console.log("This is a yellow text".yellow);
+console.log("This is a magenta text".magenta);
+console.log("This is a cyan text".cyan);
+console.log("This is a white text".white);
+console.log("This is a gray text".gray);
+console.log("This is a rainbow text".rainbow);
